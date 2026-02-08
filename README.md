@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Krupal-1219/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
