@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Krupal-1219/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Krupal-1219/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Krupal-1219/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krupal-1219/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Krupal-1219/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3340-check-balanced-string](https://github.com/Krupal-1219/Leetcode/tree/master/3340-check-balanced-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Krupal-1219/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
