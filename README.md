@@ -23,17 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krupal-1219/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Krupal-1219/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krupal-1219/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krupal-1219/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## String
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Krupal-1219/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
