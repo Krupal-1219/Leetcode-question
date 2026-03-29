@@ -20,16 +20,18 @@ public:
         bool flag = true;
         while(!q.empty()){
             int size = q.size();
-            vector <int> level(size);
+            vector <int> level;
             for(int i = 0; i<size;i++){
             TreeNode* node = q.front();
             q.pop();
             if(node->left != NULL)q.push(node->left);
             if(node->right != NULL)q.push(node->right);
 
-            int index = (flag) ? i: (size-1-i);
-            level[index] = node->val;
+            level.push_back(node->val);
 
+             }
+            if(flag == false){
+                reverse(level.begin(), level.end());
             }
             flag = !flag;
             ans.push_back(level);
