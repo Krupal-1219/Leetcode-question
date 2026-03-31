@@ -1,19 +1,20 @@
+
 class Solution {
 public:
-    void helper(TreeNode* root,vector<string>& answer,string curr){
-        if(!root)return;
-        if(root->left||root->right)curr+=(to_string(root->val)+"->");
-        else{
-            curr+=(to_string(root->val));
-            answer.push_back(curr);
-        }
-        helper(root->left,answer,curr);
-        helper(root->right,answer,curr);  
-    }
     vector<string> binaryTreePaths(TreeNode* root) {
-        vector<string> answer;
-        string curr="";
-        helper(root,answer,curr);
-        return answer;
+       if(root==NULL)return {};
+       if(root->left==NULL&&root->right==NULL){
+        return {to_string(root->val)};
+       }
+       vector<string>ans;
+       vector<string>leftpath = binaryTreePaths(root->left);
+       for(string s:leftpath){
+        ans.push_back(to_string(root->val)+"->"+s);
+       }
+       vector<string>rightpath = binaryTreePaths(root->right);
+       for(string s: rightpath){
+        ans.push_back(to_string(root->val)+"->"+s);
+       }
+       return ans;
     }
 };
