@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void mark_parents(TreeNode* root, unordered_map<TreeNode* , TreeNode*> &parent_check, TreeNode* Target){
+    void mark_parents(TreeNode* root, unordered_map<TreeNode* , TreeNode*> &parent_check){
         queue <TreeNode*> q;
         q.push(root);
         while(!q.empty()){
@@ -19,7 +19,7 @@ public:
 
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         unordered_map <TreeNode* , TreeNode*> parent_check;
-        mark_parents(root, parent_check, target);
+        mark_parents(root, parent_check);
 
         unordered_map <TreeNode* , bool> visited;
         queue <TreeNode*> q;
