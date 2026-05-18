@@ -11,20 +11,32 @@
  */
 class Solution {
 public:
-     int count = 0;
-     int res ;
-     void inorder(TreeNode* node, int k){
-        if(node == NULL)return;
-        inorder(node->left, k);
-        count++;
-        if(count == k){
-            res = node->val;
-            return;
+    int cnt = 0;   // must be global/member so it persists across recursive calls
+
+    TreeNode* inorder(TreeNode* node, int k) {
+        if (node == nullptr) {
+            return nullptr;
         }
-        inorder(node->right,k);
-     }
+
+        // Search in left subtree
+        TreeNode* leftResult = inorder(node->left, k);
+        if (leftResult != nullptr) {
+            return leftResult;
+        }
+
+        // Visit current node
+        cnt++;
+        if (cnt == k) {
+            return node;
+        }
+
+        // Search in right subtree
+        return inorder(node->right, k);
+    }
+
     int kthSmallest(TreeNode* root, int k) {
-       inorder(root,k);
-       return res; 
+        cnt = 0; // reset counter for each test case
+        TreeNode* resNode = inorder(root, k);
+        return resNode->val;
     }
 };
