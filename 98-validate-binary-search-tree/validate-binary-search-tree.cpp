@@ -9,19 +9,18 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
- class Solution {
+class Solution {
 public:
     bool isValidBST(TreeNode* root) {
-        return valid(root, LONG_MIN, LONG_MAX);        
+        long long int maxvalue = LLONG_MAX;
+        long long int minvalue = LLONG_MIN;
+       return isbsttravelsal(root, maxvalue, minvalue);
+    }
+    bool isbsttravelsal(TreeNode* node, long long int maxvalue, long long int  minvalue){
+        if (node == NULL)return true;
+        if(node->val <= minvalue || node->val >= maxvalue)return false;
+        return isbsttravelsal(node->left, node->val, minvalue) && isbsttravelsal(node->right,maxvalue , node->val);
+
     }
 
-private:
-    bool valid(TreeNode* node, long minimum, long maximum) {
-        if (!node) return true;
-
-        if (!(node->val > minimum && node->val < maximum)) return false;
-
-        return valid(node->left, minimum, node->val) && valid(node->right, node->val, maximum);
-    }    
 };
