@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Krupal-1219/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Krupal-1219/Leetcode/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |
@@ -193,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Krupal-1219/Leetcode/tree/master/0050-powx-n) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Krupal-1219/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
