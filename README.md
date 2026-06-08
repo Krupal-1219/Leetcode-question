@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Krupal-1219/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/Krupal-1219/Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Krupal-1219/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Stack
 |  |
 | ------- |
@@ -200,11 +201,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krupal-1219/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Krupal-1219/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Krupal-1219/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Krupal-1219/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
 | ------- |
@@ -218,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Krupal-1219/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
