@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krupal-1219/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Krupal-1219/Leetcode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Krupal-1219/Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krupal-1219/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Krupal-1219/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Krupal-1219/Leetcode/tree/master/0070-climbing-stairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Krupal-1219/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Backtracking
 |  |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Krupal-1219/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Krupal-1219/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
