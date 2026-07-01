@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Krupal-1219/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Krupal-1219/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Krupal-1219/Leetcode/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/Krupal-1219/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krupal-1219/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krupal-1219/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Krupal-1219/Leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Krupal-1219/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krupal-1219/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Krupal-1219/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Stack
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Krupal-1219/Leetcode/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Krupal-1219/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Krupal-1219/Leetcode/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krupal-1219/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Krupal-1219/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Graph Theory
