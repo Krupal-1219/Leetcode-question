@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Krupal-1219/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0778-swim-in-rising-water](https://github.com/Krupal-1219/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Krupal-1219/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Krupal-1219/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krupal-1219/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Krupal-1219/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krupal-1219/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Krupal-1219/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krupal-1219/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Krupal-1219/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Krupal-1219/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krupal-1219/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krupal-1219/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Krupal-1219/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Krupal-1219/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Graph Theory
 |  |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krupal-1219/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Krupal-1219/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/Krupal-1219/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Krupal-1219/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
@@ -308,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krupal-1219/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Krupal-1219/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Krupal-1219/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Biconnected Component
 |  |
