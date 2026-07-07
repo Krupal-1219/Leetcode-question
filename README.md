@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Krupal-1219/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krupal-1219/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Krupal-1219/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0778-swim-in-rising-water](https://github.com/Krupal-1219/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krupal-1219/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Krupal-1219/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krupal-1219/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Krupal-1219/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0778-swim-in-rising-water](https://github.com/Krupal-1219/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krupal-1219/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krupal-1219/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Krupal-1219/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Krupal-1219/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0778-swim-in-rising-water](https://github.com/Krupal-1219/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Krupal-1219/Leetcode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krupal-1219/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Krupal-1219/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Krupal-1219/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Krupal-1219/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krupal-1219/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krupal-1219/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
