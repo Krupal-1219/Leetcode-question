@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Krupal-1219/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krupal-1219/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krupal-1219/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Krupal-1219/Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Krupal-1219/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krupal-1219/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/Krupal-1219/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0778-swim-in-rising-water](https://github.com/Krupal-1219/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Krupal-1219/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krupal-1219/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krupal-1219/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
