@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Krupal-1219/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Krupal-1219/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0213-house-robber-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Krupal-1219/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Krupal-1219/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Krupal-1219/Leetcode/tree/master/0455-assign-cookies) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Krupal-1219/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/Krupal-1219/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Iterator
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Krupal-1219/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3714-longest-balanced-substring-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krupal-1219/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Combinatorics
