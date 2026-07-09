@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/Krupal-1219/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krupal-1219/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1051-height-checker](https://github.com/Krupal-1219/Leetcode/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krupal-1219/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Krupal-1219/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1463-cherry-pickup-ii](https://github.com/Krupal-1219/Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Krupal-1219/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krupal-1219/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Krupal-1219/Leetcode/tree/master/0455-assign-cookies) |
+| [1051-height-checker](https://github.com/Krupal-1219/Leetcode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Krupal-1219/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
@@ -455,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Krupal-1219/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
