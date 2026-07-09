@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Krupal-1219/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krupal-1219/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/Krupal-1219/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krupal-1219/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krupal-1219/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Krupal-1219/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Krupal-1219/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-swim-in-rising-water](https://github.com/Krupal-1219/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Krupal-1219/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Krupal-1219/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Krupal-1219/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Krupal-1219/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Krupal-1219/Leetcode/tree/master/0455-assign-cookies) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krupal-1219/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krupal-1219/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Krupal-1219/Leetcode/tree/master/0127-word-ladder) |
+| [0347-top-k-frequent-elements](https://github.com/Krupal-1219/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Krupal-1219/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krupal-1219/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krupal-1219/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Krupal-1219/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krupal-1219/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Krupal-1219/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Krupal-1219/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Krupal-1219/Leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Krupal-1219/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -427,4 +433,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Krupal-1219/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Krupal-1219/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
