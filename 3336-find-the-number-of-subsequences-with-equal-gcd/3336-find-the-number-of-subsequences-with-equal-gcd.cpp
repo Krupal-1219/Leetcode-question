@@ -1,50 +1,32 @@
 class Solution {
+    const int mod = 1e9 + 7;
+    int dp[200][201][201];
 public:
-    static const int MOD = 1e9 + 7;
+    int solve(int i, vector<int> &nums, int first, int second){
+        // first == gcd of first subsequence till now
+        // second = gcd of second subsequence till now
 
+        if(i == nums.size()){
+            return (first && second) && (first == second);
+        }
+        
+        if(dp[i][first][second] != -1) return dp[i][first][second];
+        
+        // Dont include this element in any subsequence
+        int skip = solve(i + 1, nums, first, second);
+
+        // Include this index in the first subsequence
+        int take1 = solve(i + 1, nums, __gcd(first, nums[i]), second);
+
+        // Include this index in the second subsequence
+        int take2 = solve(i + 1, nums, first, __gcd(second, nums[i]));
+        
+        // Summing up all the possibilites
+        return dp[i][first][second] = (0LL + skip + take1 + take2) % mod;
+    }
+    
     int subsequencePairCount(vector<int>& nums) {
-        int n = nums.size();
-
-        // dp[i][g1][g2]
-        // After processing first i elements,
-        // gcd(seq1)=g1, gcd(seq2)=g2
-        vector<vector<vector<int>>> dp(n + 1,vector<vector<int>>(201, vector<int>(201, 0)));
-
-        dp[0][0][0] = 1;
-
-        for (int i = 0; i < n; i++) {
-            int x = nums[i];
-
-            for (int g1 = 0; g1 <= 200; g1++) {
-                for (int g2 = 0; g2 <= 200; g2++) {
-
-                    if (dp[i][g1][g2] == 0) continue;
-
-                    long long ways = dp[i][g1][g2];
-
-                    // 1. Ignore x
-                    dp[i + 1][g1][g2] =
-                        (dp[i + 1][g1][g2] + ways) % MOD;
-
-                    // 2. Put x in seq1
-                    int ng1 = (g1 == 0) ? x : gcd(g1, x);
-                    dp[i + 1][ng1][g2] =
-                        (dp[i + 1][ng1][g2] + ways) % MOD;
-
-                    // 3. Put x in seq2
-                    int ng2 = (g2 == 0) ? x : gcd(g2, x);
-                    dp[i + 1][g1][ng2] =
-                        (dp[i + 1][g1][ng2] + ways) % MOD;
-                }
-            }
-        }
-
-        long long ans = 0;
-
-        for (int g = 1; g <= 200; g++) {
-            ans = (ans + dp[n][g][g]) % MOD;
-        }
-
-        return ans;
+        memset(dp, -1, sizeof(dp));
+        return solve(0, nums, 0, 0);
     }
 };
