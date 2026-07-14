@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Krupal-1219/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Krupal-1219/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Krupal-1219/Leetcode/tree/master/0050-powx-n) |
 ## Tree
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krupal-1219/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/Krupal-1219/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Krupal-1219/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Krupal-1219/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Krupal-1219/Leetcode/tree/master/0127-word-ladder) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Krupal-1219/Leetcode/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/Krupal-1219/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Krupal-1219/Leetcode/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krupal-1219/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krupal-1219/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Krupal-1219/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Krupal-1219/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0064-minimum-path-sum) |
