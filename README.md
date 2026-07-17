@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Krupal-1219/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krupal-1219/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Krupal-1219/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Krupal-1219/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krupal-1219/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Krupal-1219/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krupal-1219/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Krupal-1219/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krupal-1219/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krupal-1219/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krupal-1219/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krupal-1219/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Krupal-1219/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1903-largest-odd-number-in-string](https://github.com/Krupal-1219/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Krupal-1219/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krupal-1219/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Krupal-1219/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -476,11 +480,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Krupal-1219/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Krupal-1219/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krupal-1219/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Krupal-1219/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3714-longest-balanced-substring-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krupal-1219/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -488,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Krupal-1219/Leetcode/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -544,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krupal-1219/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krupal-1219/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
