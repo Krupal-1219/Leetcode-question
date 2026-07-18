@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krupal-1219/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krupal-1219/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Krupal-1219/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Krupal-1219/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krupal-1219/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krupal-1219/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krupal-1219/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krupal-1219/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Krupal-1219/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Krupal-1219/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krupal-1219/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
