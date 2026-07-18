@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Krupal-1219/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Krupal-1219/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krupal-1219/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Krupal-1219/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krupal-1219/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Krupal-1219/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Krupal-1219/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Krupal-1219/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krupal-1219/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Krupal-1219/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Krupal-1219/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Krupal-1219/Leetcode/tree/master/0136-single-number) |
 | [0526-beautiful-arrangement](https://github.com/Krupal-1219/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
