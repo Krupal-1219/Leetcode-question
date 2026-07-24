@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Krupal-1219/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Krupal-1219/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3340-check-balanced-string](https://github.com/Krupal-1219/Leetcode/tree/master/3340-check-balanced-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krupal-1219/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Krupal-1219/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krupal-1219/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krupal-1219/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krupal-1219/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Krupal-1219/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krupal-1219/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Krupal-1219/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Krupal-1219/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krupal-1219/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krupal-1219/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
