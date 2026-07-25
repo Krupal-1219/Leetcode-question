@@ -20,20 +20,20 @@ public:
 
 class Solution {
 public:
+int solve(Node* root){
+    if(!root)return 0;
+    int maxLevel = 0;
+
+    //recur among child max level
+    for(Node* next : root->children){
+        int childLevel = solve(next);
+        maxLevel = max(maxLevel, childLevel);
+    }
+    return maxLevel + 1;
+}
     int maxDepth(Node* root) {
-        // queue int cnt
-        if(root == NULL)return 0; 
-        int depth = 0;
-        queue <Node*> q;
-        q.push(root);
-        while(!q.empty()){
-            depth +=1;
-            int breadth = q.size();
-            for(int i = 0;i<breadth;i++){
-                auto node = q.front(); q.pop();
-                for(auto child : node->children) if(child)q.push(child);
-            }
-        }
-        return depth;
+        
+        if(!root)return 0;
+        return solve(root);
     }
 };
