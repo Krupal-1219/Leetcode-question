@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/Krupal-1219/Leetcode/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krupal-1219/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Krupal-1219/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Krupal-1219/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Doubly-Linked List
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Krupal-1219/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krupal-1219/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Krupal-1219/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krupal-1219/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krupal-1219/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Krupal-1219/Leetcode/tree/master/1051-height-checker) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Krupal-1219/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
