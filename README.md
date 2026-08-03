@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Krupal-1219/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Krupal-1219/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Krupal-1219/Leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krupal-1219/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Krupal-1219/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Krupal-1219/Leetcode/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Krupal-1219/Leetcode/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0518-coin-change-ii) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Krupal-1219/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Krupal-1219/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Krupal-1219/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Krupal-1219/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Krupal-1219/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Krupal-1219/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Krupal-1219/Leetcode/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Krupal-1219/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krupal-1219/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -666,4 +670,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2745-construct-the-longest-new-string](https://github.com/Krupal-1219/Leetcode/tree/master/2745-construct-the-longest-new-string) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
