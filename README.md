@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Krupal-1219/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/Krupal-1219/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Krupal-1219/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Krupal-1219/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Krupal-1219/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/Krupal-1219/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Krupal-1219/Leetcode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Krupal-1219/Leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Krupal-1219/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Krupal-1219/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Krupal-1219/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krupal-1219/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Krupal-1219/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Krupal-1219/Leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Krupal-1219/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Krupal-1219/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Krupal-1219/Leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Krupal-1219/Leetcode/tree/master/0542-01-matrix) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Krupal-1219/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Krupal-1219/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Krupal-1219/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0399-evaluate-division](https://github.com/Krupal-1219/Leetcode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Krupal-1219/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Krupal-1219/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Krupal-1219/Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Krupal-1219/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Krupal-1219/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Krupal-1219/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0685-redundant-connection-ii) |
@@ -492,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Krupal-1219/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Krupal-1219/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/Krupal-1219/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Krupal-1219/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Krupal-1219/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0685-redundant-connection-ii) |
@@ -558,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Krupal-1219/Leetcode/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krupal-1219/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Krupal-1219/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -702,4 +709,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Krupal-1219/Leetcode/tree/master/0279-perfect-squares) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Krupal-1219/Leetcode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Krupal-1219/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
