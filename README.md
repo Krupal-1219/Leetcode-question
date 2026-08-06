@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krupal-1219/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/Krupal-1219/Leetcode/tree/master/0827-making-a-large-island) |
+| [0851-loud-and-rich](https://github.com/Krupal-1219/Leetcode/tree/master/0851-loud-and-rich) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krupal-1219/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Krupal-1219/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Krupal-1219/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Krupal-1219/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Krupal-1219/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Krupal-1219/Leetcode/tree/master/0827-making-a-large-island) |
+| [0851-loud-and-rich](https://github.com/Krupal-1219/Leetcode/tree/master/0851-loud-and-rich) |
 | [0931-minimum-falling-path-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/Krupal-1219/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krupal-1219/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krupal-1219/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krupal-1219/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0851-loud-and-rich](https://github.com/Krupal-1219/Leetcode/tree/master/0851-loud-and-rich) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krupal-1219/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Krupal-1219/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/Krupal-1219/Leetcode/tree/master/1192-critical-connections-in-a-network) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Krupal-1219/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Krupal-1219/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0851-loud-and-rich](https://github.com/Krupal-1219/Leetcode/tree/master/0851-loud-and-rich) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Krupal-1219/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/Krupal-1219/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Math
@@ -721,4 +725,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Krupal-1219/Leetcode/tree/master/0399-evaluate-division) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/Krupal-1219/Leetcode/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
