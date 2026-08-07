@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Krupal-1219/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krupal-1219/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/Krupal-1219/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Krupal-1219/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Krupal-1219/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3340-check-balanced-string](https://github.com/Krupal-1219/Leetcode/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krupal-1219/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Krupal-1219/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Krupal-1219/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Krupal-1219/Leetcode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krupal-1219/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Krupal-1219/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
