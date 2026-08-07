@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Krupal-1219/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Krupal-1219/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3340-check-balanced-string](https://github.com/Krupal-1219/Leetcode/tree/master/3340-check-balanced-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krupal-1219/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Krupal-1219/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Krupal-1219/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Krupal-1219/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2745-construct-the-longest-new-string](https://github.com/Krupal-1219/Leetcode/tree/master/2745-construct-the-longest-new-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Krupal-1219/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search Tree
 |  |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krupal-1219/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krupal-1219/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krupal-1219/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Krupal-1219/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krupal-1219/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krupal-1219/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Krupal-1219/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Krupal-1219/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krupal-1219/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Krupal-1219/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
