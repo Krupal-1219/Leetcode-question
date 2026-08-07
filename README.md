@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Krupal-1219/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Krupal-1219/Leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Krupal-1219/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Krupal-1219/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Krupal-1219/Leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Krupal-1219/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Krupal-1219/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Krupal-1219/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Krupal-1219/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krupal-1219/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Krupal-1219/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Krupal-1219/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Krupal-1219/Leetcode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Krupal-1219/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krupal-1219/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Krupal-1219/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Krupal-1219/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Krupal-1219/Leetcode/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/Krupal-1219/Leetcode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Krupal-1219/Leetcode/tree/master/1288-remove-covered-intervals) |
