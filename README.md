@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Krupal-1219/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Krupal-1219/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Krupal-1219/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Krupal-1219/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Krupal-1219/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Krupal-1219/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Krupal-1219/Leetcode/tree/master/0392-is-subsequence) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Krupal-1219/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Krupal-1219/Leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Krupal-1219/Leetcode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Krupal-1219/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Krupal-1219/Leetcode/tree/master/0389-find-the-difference) |
 | [0526-beautiful-arrangement](https://github.com/Krupal-1219/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
