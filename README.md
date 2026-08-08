@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Krupal-1219/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Krupal-1219/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/Krupal-1219/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Krupal-1219/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Krupal-1219/Leetcode/tree/master/0518-coin-change-ii) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Krupal-1219/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Krupal-1219/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Krupal-1219/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0464-can-i-win](https://github.com/Krupal-1219/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Krupal-1219/Leetcode/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Krupal-1219/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Krupal-1219/Leetcode/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/Krupal-1219/Leetcode/tree/master/0464-can-i-win) |
 ## Segment Tree
 |  |
 | ------- |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Krupal-1219/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Krupal-1219/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Krupal-1219/Leetcode/tree/master/0389-find-the-difference) |
+| [0464-can-i-win](https://github.com/Krupal-1219/Leetcode/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/Krupal-1219/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Krupal-1219/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Krupal-1219/Leetcode/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/Krupal-1219/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Krupal-1219/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bucket Sort
@@ -731,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Krupal-1219/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Krupal-1219/Leetcode/tree/master/0486-predict-the-winner) |
 ## Zero-Sum Game
 |  |
